@@ -1,0 +1,17 @@
+/.gen
+*.stderr
+*.stdout
+*.o
+*.ali
+*.a
+*.so
+*.cswi
+*.cgpr
+*.lexch
+*.bexch
+messages.txt
+b__*
+*-loc.xml
+*.ci
+*main
+Makefile.conf

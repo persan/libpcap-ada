@@ -1,0 +1,12 @@
+~*
+*.ali
+*.o
+*.stderr
+*.stdout
+*.a
+*.so
+*.cswi
+*.cgpr
+b__*
+*~
+.#*#
